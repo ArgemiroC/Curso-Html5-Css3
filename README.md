@@ -1,4 +1,4 @@
-![image](https://4.bp.blogspot.com/-oHMa7P0GxnU/VUe5vTdMBxI/AAAAAAAALTw/LTEB77VmLkA/s1600/html5_css3.png)
+![image](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
 
 # :books: Curso-HTML5-CSS3
 
