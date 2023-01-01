@@ -17,3 +17,10 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 10](https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10) Front-end, Back-end e Full stack<br/>
 ### :film_strip: [Assistir Vídeo Aula 11](https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11) Instalando todas as ferramentas<br/>
 ### :film_strip: [Assistir Vídeo Aula 12](https://www.youtube.com/watch?v=E6CdIawPTh0&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=12) Seu primeiro código HTML<br/>
+
+# :information_source: Referência de Sites
+[MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
+[Web Design and Applications - W3C](https://www.w3.org/standards/webdesign/)<br>
+[HTML Standard](https://html.spec.whatwg.org/)<br>
+[W3Schools Online Web Tutorials](https://www.w3schools.com/)<<br>
+[Emojipedia](https://emojipedia.org/)<br>
