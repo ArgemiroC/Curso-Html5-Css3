@@ -31,3 +31,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [HTML Standard](https://html.spec.whatwg.org/)<br>
 [W3Schools Online Web Tutorials](https://www.w3schools.com/)<<br>
 [Emojipedia](https://emojipedia.org/)<br>
+[IconArchive](https://iconarchive.com/)<br>
+[Favicon.cc](https://www.favicon.cc/)<br>
+[Favicon.io](https://favicon.io/)<br>
