@@ -20,6 +20,10 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=f6NTJdtEFOc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=13) Parágrafos e Quebras<br>
 ### :film_strip: [Assistir Vídeo Aula 14](https://www.youtube.com/watch?v=nhMdFe3WwYc&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=14) Símbolos e Emoji no seu site<br>
 ### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=bDULqeGEvAw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=15) Você tem o direito de usar qualquer imagem no seu site?<br>
+### :film_strip: [Assistir Vídeo Aula 16](https://www.youtube.com/watch?v=xg-vHgLF0mI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=16) Quais são os formatos para imagem na Web?<br>
+### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17) O tamanho das imagens importa para um site?<br>
+### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) A tag img em HTML5<br>
+### :film_strip: [Assistir Vídeo Aula 19](https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=19) Como mudar o favicon de um site<br>
 
 # :information_source: Referência de Sites
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
