@@ -24,6 +24,12 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17) O tamanho das imagens importa para um site?<br>
 ### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) A tag img em HTML5<br>
 ### :film_strip: [Assistir Vídeo Aula 19](https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=19) Como mudar o favicon de um site<br>
+### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20&t=603s) Hierarquia de Títulos<br>
+### :film_strip: [Assistir Vídeo Aula 21](https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21) Semântica na HTML5 é impostante<br>
+### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22) Negrito e Itálico do jeito certo<br>
+### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=8TgKFYkcO5Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=23) Formatação adicionais em HTML<br>
+### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/@CursoemVideo) Citações e Códigos<br>
+### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=25) Listas OL e UL<br>
 
 # :information_source: Referência de Sites
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
