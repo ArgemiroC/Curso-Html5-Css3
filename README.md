@@ -41,4 +41,5 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [IconArchive](https://iconarchive.com/)<br>
 [Favicon.cc](https://www.favicon.cc/)<br>
 [Favicon.io](https://favicon.io/)<br>
-[Obsolete features — HTML5 - W3C](https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html)
+[Obsolete features — HTML5 - W3C](https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html)<br>
+[Iana - Intenet Assigned Numbers Authority](https://www.iana.org/assignments/media-types/media-types.xhtml)<br>
