@@ -1,4 +1,4 @@
-![image](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
+![image](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/CSS3_and_HTML5-300.jpg)
 
 # :books: Curso-HTML5-CSS3
 
