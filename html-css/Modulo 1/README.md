@@ -35,3 +35,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28) Links internos<br>
 ### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29) Links para download<br>
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30) Desafios propostos<br>
+### :film_strip: [Assistir Vídeo Aula 31](https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31) Imagens Dinâmicas<br>
+### :film_strip: [Assistir Vídeo Aula 32](https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32) Imagens que se adaptam sozinhas<br>
+
