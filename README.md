@@ -10,9 +10,9 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 03](https://www.youtube.com/watch?v=VfIXgGJWLvA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=3) Precisamos fazer um acordo<br>
 ### :film_strip: [Assistir Vídeo Aula 04](https://www.youtube.com/watch?v=57wyfS560Uk&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=4) Será que esse curso é para mim?<br> 
 ### :film_strip: [Assistir Vídeo Aula 05](https://www.youtube.com/watch?v=0zLjVhHdOm8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=5) Melhores Livros para aprender HTML5 e CSS3<br>
-### :film_strip: [Assistir Vídeo Aula 06](https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=6&t=237s) Como a Internet chega na minha casa?<br>
-### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7&t=460s) Como a Internet Funciona<br>
-### :film_strip: [Assistir Vídeo Aula 08](https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8&t=863s) O que é domíneo e hospedagem?<br>
+### :film_strip: [Assistir Vídeo Aula 06](https://www.youtube.com/watch?v=F74GKCLXUWM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=) Como a Internet chega na minha casa?<br>
+### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=nlO5hySqJFA&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=7) Como a Internet Funciona<br>
+### :film_strip: [Assistir Vídeo Aula 08](https://www.youtube.com/watch?v=RFHSt1PCy0k&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=8) O que é domíneo e hospedagem?<br>
 ### :film_strip: [Assistir Vídeo Aula 09](https://www.youtube.com/watch?v=B4FU3NFRTDw&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=9) A diferença entre HTML, CSS e Java Script<br>
 ### :film_strip: [Assistir Vídeo Aula 10](https://www.youtube.com/watch?v=iSqf2iPqJNM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=10) Front-end, Back-end e Full stack<br>
 ### :film_strip: [Assistir Vídeo Aula 11](https://www.youtube.com/watch?v=UForX7ehChM&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=11) Instalando todas as ferramentas<br>
@@ -24,7 +24,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=8rkuukKA8a4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=17) O tamanho das imagens importa para um site?<br>
 ### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=CwOmEetWMnU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=18) A tag img em HTML5<br>
 ### :film_strip: [Assistir Vídeo Aula 19](https://www.youtube.com/watch?v=1ZeettFfxys&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=19) Como mudar o favicon de um site<br>
-### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20&t=603s) Hierarquia de Títulos<br>
+### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=aiOEBhozEOg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=20) Hierarquia de Títulos<br>
 ### :film_strip: [Assistir Vídeo Aula 21](https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21) Semântica na HTML5 é impostante<br>
 ### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22) Negrito e Itálico do jeito certo<br>
 ### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=8TgKFYkcO5Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=23) Formatação adicionais em HTML<br>
@@ -33,7 +33,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 26](https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26) Listas mistas e de definição<br>
 ### :film_strip: [Assistir Vídeo Aula 27](https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27) Links e Âncoras em HTML5<br>
 ### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28) Links internos<br>
-### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29&t=305s) Links para download<br>
+### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29) Links para download<br>
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30) Desafios propostos<br>
 
 # :information_source: Referência de Sites
