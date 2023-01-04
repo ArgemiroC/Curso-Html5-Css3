@@ -1,6 +1,6 @@
 ![image](https://upload.wikimedia.org/wikipedia/commons/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg)
 
-# :books: Curso-HTML5-CSS3
+# :books: Curso-HTML5-CSS3 - Módulo 01
 
 Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) com o Professor Gustavo Guanabara.
 
@@ -35,15 +35,3 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=LeLnlT-ZKw8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=28) Links internos<br>
 ### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=Jszz7M676y8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=29) Links para download<br>
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30) Desafios propostos<br>
-
-# :information_source: Referência de Sites
-[MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
-[Web Design and Applications - W3C](https://www.w3.org/standards/webdesign/)<br>
-[HTML Standard](https://html.spec.whatwg.org/)<br>
-[W3Schools Online Web Tutorials](https://www.w3schools.com/)<<br>
-[Emojipedia](https://emojipedia.org/)<br>
-[IconArchive](https://iconarchive.com/)<br>
-[Favicon.cc](https://www.favicon.cc/)<br>
-[Favicon.io](https://favicon.io/)<br>
-[Obsolete features — HTML5 - W3C](https://www.w3.org/TR/2014/REC-html5-20141028/obsolete.html)<br>
-[Iana - Intenet Assigned Numbers Authority](https://www.iana.org/assignments/media-types/media-types.xhtml)<br>
