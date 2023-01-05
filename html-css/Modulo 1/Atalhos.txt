@@ -47,3 +47,4 @@ Ctrl + Shift + P = Colocar textos dentro de tags
 (preload="auto") - carrega todo arquivo antes de tocar
 (controls) - aparece o controle play no site
 (loop) - quanto terminar começa de novo
+(autoplay) - começa o vídeo automaticamente
