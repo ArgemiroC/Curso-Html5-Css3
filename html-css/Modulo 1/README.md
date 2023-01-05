@@ -1,4 +1,4 @@
-![image](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/CSS3_and_HTML5-300.jpg)
+![image](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/imagens-extras/CSS3_and_HTML5-300.jpg)
 
 # :books: Curso-HTML5-CSS3 - Módulo 01
 
@@ -37,4 +37,12 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=suL56Mdx22Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=30) Desafios propostos<br>
 ### :film_strip: [Assistir Vídeo Aula 31](https://www.youtube.com/watch?v=E01LDVj0Rpg&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=31) Imagens Dinâmicas<br>
 ### :film_strip: [Assistir Vídeo Aula 32](https://www.youtube.com/watch?v=cAgkwPWE4hU&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=32) Imagens que se adaptam sozinhas<br>
-
+### :film_strip: [Assistir Vídeo Aula 33](https://www.youtube.com/watch?v=4OZYsFl-J9s&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=33) Colocando áudio no seu site<br>
+### :film_strip: [Assistir Vídeo Aula 34](https://www.youtube.com/watch?v=DjOSM72cYac&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=34) Formatos de vídeo para seu site<br>
+### :film_strip: [Assistir Vídeo Aula 35](https://www.youtube.com/watch?v=TCeyIwFGkYo&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=35) Vídeos em hospedagem própria<br>
+### :film_strip: [Assistir Vídeo Aula 36](https://www.youtube.com/watch?v=3hng-hmSv2Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=36) Incorporação de vídeos externos<br>
+### :film_strip: [Assistir Vídeo Aula 37](https://www.youtube.com/watch?v=gqrySQQzvvQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=37) Desafio: um site com vídeos<br>
+### :film_strip: [Assistir Vídeo Aula 38](https://www.youtube.com/watch?v=byqhpuVpvEI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=38) Estilos CSS inline<br>
+### :film_strip: [Assistir Vídeo Aula 39](https://www.youtube.com/watch?v=fzyab4P2pn8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=39) Estilos CSS internos<br>
+### :film_strip: [Assistir Vídeo Aula 40](https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=40) Estilos CSS externos<br>
+### :film_strip: [Assistir Vídeo Aula 41](https://www.youtube.com/watch?v=xYLizixflv4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=41) Fim do Módulo 1: Certificados liberados<br>
