@@ -66,3 +66,14 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 13 [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
 ### Exercício 14 [Estilos Locais / Internos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex014/index.html)<br>
 ### Exercício 15 [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
+
+# :keyboard: Desafios
+### Desafio 01 [Desafio das Mensagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d001/index.html)<br>
+### Desafio 02 [Desafio das imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d002/Index.html)<br>
+### Desafio 03 [Desafio do Mapa Mundi](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d003/index.html)<br>
+### Desafio 04 [Meus emojis favoritos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d004/index.html)<br>
+### Desafio 05 [Meu perfil social](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d005/index.html)<br>
+### Desafio 06 [Tags em HTNL](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
+### Desafio 07 [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
+### Desafio 08 [Desafio da Navegação](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d008/index.html)<br>
+### Desafio 09 [Vídeos legais para assistir](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d009/index.html)<br>
