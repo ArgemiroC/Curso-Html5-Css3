@@ -46,3 +46,21 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 39](https://www.youtube.com/watch?v=fzyab4P2pn8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=39) Estilos CSS internos<br>
 ### :film_strip: [Assistir Vídeo Aula 40](https://www.youtube.com/watch?v=-i1JVMspDJQ&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=40) Estilos CSS externos<br>
 ### :film_strip: [Assistir Vídeo Aula 41](https://www.youtube.com/watch?v=xYLizixflv4&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=41) Fim do Módulo 1: Certificados liberados<br>
+
+# :scroll: Exercícios
+
+### Exercício 01 [Confira](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex001/index.html)<br>
+### Exercício 02 [Confira](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex002/index.html)<br>
+### Exercício 03 [Confira](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex003/index.html)<br>
+### Exercício 04 [Confira]()<br>
+### Exercício 05 [Confira]()<br>
+### Exercício 06 [Confira]()<br>
+### Exercício 07 [Confira]()<br>
+### Exercício 08 [Confira]()<br>
+### Exercício 09 [Confira]()<br>
+### Exercício 10 [Confira]()<br>
+### Exercício 11 [Confira]()<br>
+### Exercício 12 [Confira]()<br>
+### Exercício 13 [Confira]()<br>
+### Exercício 14 [Confira]()<br>
+### Exercício 15 [Confira]()<br>
