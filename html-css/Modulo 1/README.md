@@ -2,7 +2,7 @@
 
 # :books: Curso-HTML5-CSS3 - Módulo 01
 
-Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) com o Professor Gustavo Guanabara.
+Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO - MÓDULO 1](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) com o Professor Gustavo Guanabara.
 
 # :clapper: VÍDEO AULAS
 ### :film_strip: [Assistir Vídeo Aula 01](https://www.youtube.com/watch?v=Ejkb_YpuHWs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=1) Começa aqui o novo @CursoemVideo HTML5 e CSS3<br>
