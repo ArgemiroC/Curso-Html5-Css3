@@ -51,7 +51,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 16 [Representando Cores com CSS em Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%202/exercicios/ex016/cor01.html)<br>
+### Exercício 16 [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex016)<br>
 ### Exercício 17 []()<br>
 ### Exercício 18 []()<br>
 ### Exercício 19 []()<br>
