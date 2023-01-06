@@ -4,7 +4,8 @@
 
 Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO](https://www.youtube.com/playlist?list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n) com o Professor Gustavo Guanabara.
 
-# :file_folder: Modulo 01 [Acesse](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/README.md)<br>
+# :file_folder: [Módulo 01](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/README.md)<br>
+# :file_folder: [Módulo 02](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%202/README.md)<br>
 
 # :information_source: Referência de Sites
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
