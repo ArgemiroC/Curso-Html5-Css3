@@ -10,9 +10,9 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 03](https://www.youtube.com/watch?v=uKjKnztS3cY&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=3) Representando Cores com CSS3<br>
 ### :film_strip: [Assistir Vídeo Aula 04](https://www.youtube.com/watch?v=E2gaDa4ZaTc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=4) Harmonia de Cores<br> 
 ### :film_strip: [Assistir Vídeo Aula 05](https://www.youtube.com/watch?v=KC8dm9OvIOU&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=5) Paletas de Cores<br>
-### :film_strip: [Assistir Vídeo Aula 06]() <br>
-### :film_strip: [Assistir Vídeo Aula 07]() <br>
-### :film_strip: [Assistir Vídeo Aula 08]() <br>
+### :film_strip: [Assistir Vídeo Aula 06](https://www.youtube.com/watch?v=Swh0Yt2s5Zs&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=6) Como capturar cores da tela?<br>
+### :film_strip: [Assistir Vídeo Aula 07](https://www.youtube.com/watch?v=_P-guJX-TtU&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=7) Como criar degradê com CSS<br>
+### :film_strip: [Assistir Vídeo Aula 08](https://www.youtube.com/watch?v=reFQrqxOzsg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=8) Criando um exemplo real<br>
 ### :film_strip: [Assistir Vídeo Aula 09]() <br>
 ### :film_strip: [Assistir Vídeo Aula 10]() <br>
 ### :film_strip: [Assistir Vídeo Aula 11]() <br>
