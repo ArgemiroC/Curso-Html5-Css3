@@ -62,3 +62,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Desafio 10 []()<br>
 ### Desafio 11 []()<br>
 ### Desafio 12 []()<br>
+
+# :information_source: Referência de Sites
+[Entenda o que é Psicologia das Cores e descubra o significado de cada cor](https://rockcontent.com/br/blog/psicologia-das-cores/)<br>
