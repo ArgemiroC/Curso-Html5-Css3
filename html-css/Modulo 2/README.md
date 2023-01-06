@@ -7,8 +7,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :clapper: VÍDEO AULAS
 ### :film_strip: [Assistir Vídeo Aula 01](https://www.youtube.com/watch?v=vPNIAJ9B4hg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=1) O que vamos aprender no módulo 2?<br>
 ### :film_strip: [Assistir Vídeo Aula 02](https://www.youtube.com/watch?v=A8UNBs7nxw4&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=2) Psicologia das cores<br>
-### :film_strip: [Assistir Vídeo Aula 03]() <br>
-### :film_strip: [Assistir Vídeo Aula 04]() <br> 
+### :film_strip: [Assistir Vídeo Aula 03](https://www.youtube.com/watch?v=uKjKnztS3cY&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=3) Representando Cores com CSS3<br>
+### :film_strip: [Assistir Vídeo Aula 04](https://www.youtube.com/watch?v=E2gaDa4ZaTc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=4) Harmonia de Cores<br> 
 ### :film_strip: [Assistir Vídeo Aula 05]() <br>
 ### :film_strip: [Assistir Vídeo Aula 06]() <br>
 ### :film_strip: [Assistir Vídeo Aula 07]() <br>
@@ -51,7 +51,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 16 []()<br>
+### Exercício 16 [Representando Cores com CSS em Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%202/exercicios/ex016/cor01.html)<br>
 ### Exercício 17 []()<br>
 ### Exercício 18 []()<br>
 ### Exercício 19 []()<br>
@@ -65,3 +65,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :information_source: Referência de Sites
 [Entenda o que é Psicologia das Cores e descubra o significado de cada cor](https://rockcontent.com/br/blog/psicologia-das-cores/)<br>
+[Collor Adobe](https://color.adobe.com/pt/create/color-wheel)<br>
+[Psicologia das cores guia avancado para profissionais](http://www.matildefilmes.com.br/psicologia-das-cores-guia-avancado-para-profissionais/)<br>
+[Psicologia das cores como usar cores para aumentar sua taxa de conversão](https://neilpatel.com/br/blog/psicologia-das-cores-como-usar-cores-para-aumentar-sua-taxa-de-conversao/)<br>
