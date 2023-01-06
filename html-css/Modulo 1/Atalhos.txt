@@ -38,7 +38,7 @@ Ctrl + Shift + P = Colocar textos dentro de tags
 (rel="prev") - Página anterior
 (rel="next") - Próxima página
 (target="_blank") - Abrir nova página
-(rel="nofollow") - Estar informando que não dou aval
+(illow) - Estar informando que não dou aval
 (../) - Pata anterior
 (audio src) - Incluir áudio no site
 (audio) - Faz o mesmo
