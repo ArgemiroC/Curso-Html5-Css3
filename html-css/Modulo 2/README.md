@@ -70,3 +70,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Psicologia das cores como usar cores para aumentar sua taxa de conversão](https://neilpatel.com/br/blog/psicologia-das-cores-como-usar-cores-para-aumentar-sua-taxa-de-conversao/)<br>
 [Paletton.com](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)<br>
 [Coolors.co](https://coolors.co/)<br>
+[CSS Web Safe Fonts](https://www.w3schools.com/css/css_font_pairings.asp)<br>
