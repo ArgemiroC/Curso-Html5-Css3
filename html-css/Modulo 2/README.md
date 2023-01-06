@@ -9,7 +9,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 02](https://www.youtube.com/watch?v=A8UNBs7nxw4&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=2) Psicologia das cores<br>
 ### :film_strip: [Assistir Vídeo Aula 03](https://www.youtube.com/watch?v=uKjKnztS3cY&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=3) Representando Cores com CSS3<br>
 ### :film_strip: [Assistir Vídeo Aula 04](https://www.youtube.com/watch?v=E2gaDa4ZaTc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=4) Harmonia de Cores<br> 
-### :film_strip: [Assistir Vídeo Aula 05]() <br>
+### :film_strip: [Assistir Vídeo Aula 05](https://www.youtube.com/watch?v=KC8dm9OvIOU&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=5) Paletas de Cores<br>
 ### :film_strip: [Assistir Vídeo Aula 06]() <br>
 ### :film_strip: [Assistir Vídeo Aula 07]() <br>
 ### :film_strip: [Assistir Vídeo Aula 08]() <br>
@@ -68,3 +68,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Collor Adobe](https://color.adobe.com/pt/create/color-wheel)<br>
 [Psicologia das cores guia avancado para profissionais](http://www.matildefilmes.com.br/psicologia-das-cores-guia-avancado-para-profissionais/)<br>
 [Psicologia das cores como usar cores para aumentar sua taxa de conversão](https://neilpatel.com/br/blog/psicologia-das-cores-como-usar-cores-para-aumentar-sua-taxa-de-conversao/)<br>
+[Paletton.com](https://paletton.com/#uid=1000u0kllllaFw0g0qFqFg0w0aF)<br>
