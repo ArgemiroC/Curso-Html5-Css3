@@ -73,3 +73,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [CSS Web Safe Fonts](https://www.w3schools.com/css/css_font_pairings.asp)<br>
 [Google Fonts](https://fonts.google.com/?query=wo)<br>
 [Dafont.com](https://www.dafont.com/pt/)<br>
+[WhatFontIs.com](https://www.whatfontis.com/)<br>
+[Fontsquirrel.com](https://www.fontsquirrel.com/)<br>
+[Myfonts.com](https://www.myfonts.com/)<br>
