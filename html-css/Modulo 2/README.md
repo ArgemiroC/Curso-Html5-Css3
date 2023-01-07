@@ -22,7 +22,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=3YIXnxA1kqg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=15) Usando fontes externas baixadas<br>
 ### :film_strip: [Assistir Vídeo Aula 16](https://www.youtube.com/watch?v=XTtfM0L7Co0&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=16) Usando fontes externas baixadas<br>
 ### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=i_c5Fzk807M&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=17) Detectando fontes dentro de imagens<br>
-### :film_strip: [Assistir Vídeo Aula 18]() <br>
+### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=tJTtp4qyqdE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=18) Alinhamento de textos com CSS<br>
 ### :film_strip: [Assistir Vídeo Aula 19]() <br>
 ### :film_strip: [Assistir Vídeo Aula 20]() <br>
 ### :film_strip: [Assistir Vídeo Aula 21]() <br>
