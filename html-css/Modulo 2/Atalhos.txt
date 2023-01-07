@@ -10,7 +10,7 @@ CÓDIGOS HTML
 (h1) - Título do conteúdo
 (<br>) [break row] - Quebra de linhas
 (&lt;__&gt;) - Coloca ao redor de uma tag se quiser que apareça na página com <>
-(<!--__-->) - Colocar comentários no código
+(<!--__-->) - Comentários no HTML5
 (&#x____) - Valor em Exadecimal (Emoji)
 Ctrl + Shift + P = Colocar textos dentro de tags
 (b) - negrito antigo
@@ -48,3 +48,22 @@ Ctrl + Shift + P = Colocar textos dentro de tags
 (controls) - aparece o controle play no site
 (loop) - quanto terminar começa de novo
 (autoplay) - começa o vídeo automaticamente
+
+CSS3 
+
+(font-family) - Familia de fontes
+(font-size) - Tamanho da fonte
+(/*__*/) - Comentarios detro do CSS3
+(cm) - centimetro
+(mm) - milimetro
+(in) - polegada
+(px) - Pixel (Recomentada)
+(pt) - ponto (não recomentado)
+(pc) - Paica (não recomentado)
+(em) - Altura M (Mais recomentado)
+(ex) - Atura X
+(rem) - Relativo a fonte configurado no "body"
+(vw) - largura da tela (porcentagem da tela)
+(vh) - Altura da tela
+(%) - porcentagem
+
