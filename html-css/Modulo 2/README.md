@@ -20,8 +20,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=oHj5ez1bSkc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=13) Peso, estilo e shorthand font<br>
 ### :film_strip: [Assistir Vídeo Aula 14](https://www.youtube.com/watch?v=FLuQonci9wU&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=14) Usando Google Fonts<br>
 ### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=3YIXnxA1kqg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=15) Usando fontes externas baixadas<br>
-### :film_strip: [Assistir Vídeo Aula 16]() <br>
-### :film_strip: [Assistir Vídeo Aula 17]() <br>
+### :film_strip: [Assistir Vídeo Aula 16](https://www.youtube.com/watch?v=XTtfM0L7Co0&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=16) Usando fontes externas baixadas<br>
+### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=i_c5Fzk807M&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=17) Detectando fontes dentro de imagens<br>
 ### :film_strip: [Assistir Vídeo Aula 18]() <br>
 ### :film_strip: [Assistir Vídeo Aula 19]() <br>
 ### :film_strip: [Assistir Vídeo Aula 20]() <br>
@@ -72,3 +72,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Coolors.co](https://coolors.co/)<br>
 [CSS Web Safe Fonts](https://www.w3schools.com/css/css_font_pairings.asp)<br>
 [Google Fonts](https://fonts.google.com/?query=wo)<br>
+[Dafont.com](https://www.dafont.com/pt/)<br>
