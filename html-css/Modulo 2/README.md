@@ -15,11 +15,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 08](https://www.youtube.com/watch?v=reFQrqxOzsg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=8) Criando um exemplo real<br>
 ### :film_strip: [Assistir Vídeo Aula 09](https://www.youtube.com/watch?v=m54omTveWa8&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=9) Primeiros passos em Tipografia<br>
 ### :film_strip: [Assistir Vídeo Aula 10](https://www.youtube.com/watch?v=YZfzstEquas&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=10) Anatomia do tipo<br>
-### :film_strip: [Assistir Vídeo Aula 11]() <br>
-### :film_strip: [Assistir Vídeo Aula 12]() <br>
-### :film_strip: [Assistir Vídeo Aula 13]() <br>
-### :film_strip: [Assistir Vídeo Aula 14]() <br>
-### :film_strip: [Assistir Vídeo Aula 15]() <br>
+### :film_strip: [Assistir Vídeo Aula 11](https://www.youtube.com/watch?v=dMp1UFD8_lE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=11) Famílias de fonte com CSS<br>
+### :film_strip: [Assistir Vídeo Aula 12](https://www.youtube.com/watch?v=NGfPXJGiNH8&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=12) Tamanho de fonte e suas medidas<br>
+### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=oHj5ez1bSkc&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=13) Peso, estilo e shorthand font<br>
+### :film_strip: [Assistir Vídeo Aula 14](https://www.youtube.com/watch?v=FLuQonci9wU&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=14) Usando Google Fonts<br>
+### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=3YIXnxA1kqg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=15) Usando fontes externas baixadas<br>
 ### :film_strip: [Assistir Vídeo Aula 16]() <br>
 ### :film_strip: [Assistir Vídeo Aula 17]() <br>
 ### :film_strip: [Assistir Vídeo Aula 18]() <br>
