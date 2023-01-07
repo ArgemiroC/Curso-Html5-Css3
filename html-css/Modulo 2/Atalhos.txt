@@ -53,6 +53,7 @@ CSS3
 
 (font-family) - Familia de fontes
 (font-size) - Tamanho da fonte
+(font-weight) - Peso da fonte
 (/*__*/) - Comentarios detro do CSS3
 (cm) - centimetro
 (mm) - milimetro
@@ -66,4 +67,7 @@ CSS3
 (vw) - largura da tela (porcentagem da tela)
 (vh) - Altura da tela
 (%) - porcentagem
+(Weight) - Peso 
+(Width) - Largura 
+(Height) - Altura
 
