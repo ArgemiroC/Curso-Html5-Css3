@@ -29,7 +29,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=vMlrcOVr7po&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=22) Pseudo-elementos em CSS<br>
 ### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=3ZFYXkzXhqE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=23) Modelo de Caixas primeiros passos<br>
 ### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=rXF1okX0v9E&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=24) Modelo de Caixas na prática (parte 1)<br>
-### :film_strip: [Assistir Vídeo Aula 25]() <br>
+### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=-CPoDvZLQ6k&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=25) Modelo de Caixas na prática (parte 2)<br>
 ### :film_strip: [Assistir Vídeo Aula 26]() <br>
 ### :film_strip: [Assistir Vídeo Aula 27]() <br>
 ### :film_strip: [Assistir Vídeo Aula 28]() <br>
