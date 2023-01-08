@@ -27,8 +27,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=zXfTjPrMC_0&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=20) As diferenças entre id e class<br>
 ### :film_strip: [Assistir Vídeo Aula 21](https://www.youtube.com/watch?v=WPtRX4n0UJs&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=21) Pseudo-classes em CSS<br>
 ### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=vMlrcOVr7po&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=22) Pseudo-elementos em CSS<br>
-### :film_strip: [Assistir Vídeo Aula 23]() <br>
-### :film_strip: [Assistir Vídeo Aula 24]() <br>
+### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=3ZFYXkzXhqE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=23) Modelo de Caixas primeiros passos<br>
+### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=rXF1okX0v9E&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=24) Modelo de Caixas na prática (parte 1)<br>
 ### :film_strip: [Assistir Vídeo Aula 25]() <br>
 ### :film_strip: [Assistir Vídeo Aula 26]() <br>
 ### :film_strip: [Assistir Vídeo Aula 27]() <br>
