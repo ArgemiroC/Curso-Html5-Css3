@@ -1,0 +1,78 @@
+ATALHOS PARA O VISUAL CODE
+(!) - Abre o padrão do HTML
+
+CÓDIGOS HTML
+(head) - Area de configuração da página
+(Bady) - Area de conteúdo do site
+(UTF-8) - Patrão de codificação de caracteres para acentuação 
+(hr) - Linha orizontal
+(p) - Paragrafo
+(h1) - Título do conteúdo
+(<br>) [break row] - Quebra de linhas
+(&lt;__&gt;) - Coloca ao redor de uma tag se quiser que apareça na página com <>
+(<!--__-->) - Comentários no HTML5
+(&#x____) - Valor em Exadecimal (Emoji)
+Ctrl + Shift + P = Colocar textos dentro de tags
+(b) - negrito antigo
+(strong) - negrito atual
+(i) - itálico antigo
+(em) - itálico atual
+(mark) - marcar texto
+(big) - texto grande antigo
+(small) - texto pequeno atual
+(del) - texto excluído, riscado
+(ins) - texto incluído, sublinhado
+(u) - texto sublinhado
+(sup) - subir texto
+(sub) - descer texto
+(code) - para texto parecer como código
+(pre) - Para mander a atentação
+(Shift + tab) - Traz o texto selecionado para esquerda
+(q) - Citações simples
+(cite) - endereço da citação na web
+(abbr) - Significado da abreviação
+(blockquote) - Citação completa
+(bdo - r) coloca otexto invertido
+(a) - Colocar links
+(rel="external") - Link externo
+(rel="prev") - Página anterior
+(rel="next") - Próxima página
+(target="_blank") - Abrir nova página
+(illow) - Estar informando que não dou aval
+(../) - Pata anterior
+(audio src) - Incluir áudio no site
+(audio) - Faz o mesmo
+(preload="metadata") - Carrega as informações do áudio
+(preload="none") - Não carrega nada
+(preload="auto") - carrega todo arquivo antes de tocar
+(controls) - aparece o controle play no site
+(loop) - quanto terminar começa de novo
+(autoplay) - começa o vídeo automaticamente
+
+CSS3 
+
+(font-family) - Familia de fontes
+(font-size) - Tamanho da fonte
+(font-weight) - Peso da fonte
+(/*__*/) - Comentarios detro do CSS3
+(cm) - centimetro
+(mm) - milimetro
+(in) - polegada
+(px) - Pixel (Recomentada)
+(pt) - ponto (não recomentado)
+(pc) - Paica (não recomentado)
+(em) - Altura M (Mais recomentado)
+(ex) - Atura X
+(rem) - Relativo a fonte configurado no "body"
+(vw) - largura da tela (porcentagem da tela)
+(vh) - Altura da tela
+(%) - porcentagem
+(Weight) - Peso 
+(Width) - Largura 
+(Height) - Altura
+Valores de peso para fonte
+Lighter - leve
+Normal
+bold - negrito
+bolder - extranegrito
+
