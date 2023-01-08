@@ -68,8 +68,45 @@ CSS3
 (vh) - Altura da tela
 (%) - porcentagem
 (Weight) - Peso 
+----CAIXA----
 (Width) - Largura 
 (Height) - Altura
+(padding) - Acochoamento ou preenchimento (da borda para dentro)
+(border) - linha ao redor do conteúdo (Borda)
+(Margin) - Margem (Da borda para fora)
+(Outline) - Contorno ou traçado (Fora do elemento)
+--------------
+
+CAIXA -> box-level
+Sempre se inicia em uma linha nova, largura sempre 100%
+<div>
+<h1>....<h6>
+<p>
+<main>
+<header>
+<nav>
+<article>
+<aside>
+<footer>
+<form>
+<video>
+
+CAIXA -> inline-leval
+Sempre começa na continuedade da linha, não ocupa a largura total, não quebra a linha,
+ e se adequa ao tamanho do conteúdo.
+<span>
+<a> links
+<code>
+<small>
+<strong> - Negrito
+<em>
+<sup>...<sub>
+<label>
+<button>
+<input>
+<select>
+
+
 Valores de peso para fonte
 Lighter - leve
 Normal
