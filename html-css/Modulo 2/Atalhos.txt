@@ -70,4 +70,9 @@ CSS3
 (Weight) - Peso 
 (Width) - Largura 
 (Height) - Altura
+Valores de peso para fonte
+Lighter - leve
+Normal
+bold - negrito
+bolder - extranegrito
 
