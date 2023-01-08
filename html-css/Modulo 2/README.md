@@ -53,8 +53,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 ### Exercício 16 [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex016)<br>
 ### Exercício 17 [Fontes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex017)<br>
-### Exercício 18 []()<br>
-### Exercício 19 []()<br>
+### Exercício 18 [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
+### Exercício 19 [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
 ### Exercício 20 []()<br>
 
 
