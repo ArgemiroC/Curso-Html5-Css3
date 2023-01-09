@@ -30,11 +30,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=3ZFYXkzXhqE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=23) Modelo de Caixas primeiros passos<br>
 ### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=rXF1okX0v9E&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=24) Modelo de Caixas na prática (parte 1)<br>
 ### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=-CPoDvZLQ6k&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=25) Modelo de Caixas na prática (parte 2)<br>
-### :film_strip: [Assistir Vídeo Aula 26]() <br>
-### :film_strip: [Assistir Vídeo Aula 27]() <br>
-### :film_strip: [Assistir Vídeo Aula 28]() <br>
-### :film_strip: [Assistir Vídeo Aula 29]() <br>
-### :film_strip: [Assistir Vídeo Aula 30]() <br>
+### :film_strip: [Assistir Vídeo Aula 26](https://www.youtube.com/watch?v=JPMm-jyKOaM&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=26) Grouping Tags em HTML5<br>
+### :film_strip: [Assistir Vídeo Aula 27](https://www.youtube.com/watch?v=JACiDRNWjjQ&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=27) Sombra nas Caixas<br>
+### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=PGIrTzQqpqo&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=28) Caixas com vértices arredondados<br>
+### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=n0rjAs_Im4w&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=29) Bordas decoradas<br>
+### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=xS2D9x8odoE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=30) DESAFIO do Módulo 2<br>
 ### :film_strip: [Assistir Vídeo Aula 31]() <br>
 ### :film_strip: [Assistir Vídeo Aula 32]() <br>
 ### :film_strip: [Assistir Vídeo Aula 33]() <br>
