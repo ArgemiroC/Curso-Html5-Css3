@@ -9,10 +9,13 @@ header{ /* Cabeçalho */
     padding: 10px;
     margin: 10px;
 }
-
+h1{
+    box-shadow: inset -10px 4px 8px 3px rgb(0 0 0 / 54%);
+}
 nav{ /* Menu */
     background-color: rgb(102, 102, 102);
     padding: 3px;
+    box-shadow: 5px 3px 7px rgba(0, 0, 0, 0.541);
 }
 
 nav > a{ /* Links do Menu */
@@ -44,6 +47,9 @@ footer{ /* Roda pé */
     background-color: black;
     color: white;
     text-align: center;
-    padding: 10px;
+    padding: 1px;
     margin: 10px;
+}
+footer > p{
+    margin: 0px;
 }
