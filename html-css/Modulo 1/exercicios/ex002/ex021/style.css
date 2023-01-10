@@ -1,0 +1,73 @@
+@charset "UTF-8";
+body{ /* corpo da página */
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(139, 139, 197);
+}
+
+header{ /* Cabeçalho */
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315);
+}
+h1{
+    box-shadow: inset -10px 4px 8px 3px rgb(0 0 0 / 54%);
+}
+nav{ /* Menu */
+    background-color: rgb(102, 102, 102);
+    padding: 3px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315);
+}
+
+nav > a{ /* Links do Menu */
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    margin-right: 30px;
+}
+
+nav > a:hover{ /* Menu */
+    text-decoration: underline;
+}
+
+main{ /* Conteúdo */
+    background-color: white;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315);
+}
+
+article{ /* texto do conteúdo */
+    background-color: lightgray;
+    padding: 10px;
+}
+article > aside{ /* destaque do conteúdo */
+    background-color: rgb(155, 153, 153);
+}
+
+footer{ /* Roda pé */
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 1px;
+    margin: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.315);
+}
+footer > p{
+    margin: 0px;
+}
+div#bola{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(195, 196, 146);
+    margin: auto;
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.315);
+}
+div > p{
+    margin: auto;
+    padding: 5px;
+}
