@@ -35,19 +35,19 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=PGIrTzQqpqo&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=28) Caixas com vértices arredondados<br>
 ### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=n0rjAs_Im4w&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=29) Bordas decoradas<br>
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=xS2D9x8odoE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=30) DESAFIO do Módulo 2<br>
-### :film_strip: [Assistir Vídeo Aula 31]() <br>
-### :film_strip: [Assistir Vídeo Aula 32]() <br>
-### :film_strip: [Assistir Vídeo Aula 33]() <br>
-### :film_strip: [Assistir Vídeo Aula 34]() <br>
-### :film_strip: [Assistir Vídeo Aula 35]() <br>
-### :film_strip: [Assistir Vídeo Aula 36]() <br>
-### :film_strip: [Assistir Vídeo Aula 37]() <br>
-### :film_strip: [Assistir Vídeo Aula 38]() <br>
-### :film_strip: [Assistir Vídeo Aula 39]() <br>
-### :film_strip: [Assistir Vídeo Aula 40]() <br>
-### :film_strip: [Assistir Vídeo Aula 41]() <br>
-### :film_strip: [Assistir Vídeo Aula 42]() <br>
-### :film_strip: [Assistir Vídeo Aula 43]() <br>
+### :film_strip: [Assistir Vídeo Aula 31](https://www.youtube.com/watch?v=cKEA0-MOhOs&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=31) Criando um projeto a partir do zero<br>
+### :film_strip: [Assistir Vídeo Aula 32](https://www.youtube.com/watch?v=YB9c1Zg_Ln4&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=32) Navegando pelo projeto pronto<br>
+### :film_strip: [Assistir Vídeo Aula 33](https://www.youtube.com/watch?v=Zju-c3YWgSg&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=33) Planejando a estrutura do seu site<br>
+### :film_strip: [Assistir Vídeo Aula 34](https://www.youtube.com/watch?v=D7jnoo7UHKE&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=34) Transformando o layout em código<br>
+### :film_strip: [Assistir Vídeo Aula 35](https://www.youtube.com/watch?v=I_vi2q6sC1k&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=35) Organizando o conteúdo do site<br>
+### :film_strip: [Assistir Vídeo Aula 36](https://www.youtube.com/watch?v=3S5ts5bzvzM&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=36) Variáveis em CSS<br>
+### :film_strip: [Assistir Vídeo Aula 37](https://www.youtube.com/watch?v=WcGPSeuJDJ0&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=37) Responsividade para sites<br>
+### :film_strip: [Assistir Vídeo Aula 38](https://www.youtube.com/watch?v=rAdHLNBTCgs&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=38) Responsividade na prática<br>
+### :film_strip: [Assistir Vídeo Aula 39](https://www.youtube.com/watch?v=TrfhQwSYCEk&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=39) Configurando o header e o menu do site<br>
+### :film_strip: [Assistir Vídeo Aula 40](https://www.youtube.com/watch?v=_KglicHxv3g&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=40) Melhorando o formato do conteúdo<br>
+### :film_strip: [Assistir Vídeo Aula 41](https://www.youtube.com/watch?v=pdomr7thueI&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=41) Rodapé, conteúdo periférico e links<br>
+### :film_strip: [Assistir Vídeo Aula 42](https://www.youtube.com/watch?v=u9NE0jInb_c&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=42) Tornando um vídeo responsivo<br>
+### :film_strip: [Assistir Vídeo Aula 43](https://www.youtube.com/watch?v=V502R5sbIh4&list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s&index=43) Fim do Módulo 2 certificados liberados<br>
 
 # :scroll: Exercícios
 
