@@ -1,12 +1,12 @@
 ![image](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/imagens-extras/CSS3_and_HTML5-300.jpg)
 
-# :books: Curso-HTML5-CSS3 - Módulo 01
+# :books: Curso-HTML5-CSS3 - Módulo 03
 
 Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO - MÓDULO 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ) com o Professor Gustavo Guanabara.
 
 # :clapper: VÍDEO AULAS
-### :film_strip: [Assistir Vídeo Aula 01]() <br>
-### :film_strip: [Assistir Vídeo Aula 02]() <br>
+### :film_strip: [Assistir Vídeo Aula 01](https://www.youtube.com/watch?v=ofFgnDtn_1c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=1) O que vamos aprender no módulo 3<br>
+### :film_strip: [Assistir Vídeo Aula 02](https://www.youtube.com/watch?v=GDGMf2bnHlE&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=2) O que é Git e GitHub<br>
 ### :film_strip: [Assistir Vídeo Aula 03]() <br>
 ### :film_strip: [Assistir Vídeo Aula 04]() <br> 
 ### :film_strip: [Assistir Vídeo Aula 05]() <br>
