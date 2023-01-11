@@ -15,11 +15,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 08](https://www.youtube.com/watch?v=ejQwG2cvWxg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=8) Manutenção em sites hospedados no GitHub Pages<br>
 ### :film_strip: [Assistir Vídeo Aula 09](https://www.youtube.com/watch?v=g5orqzMzwkY&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=9) Recursos Sociais do GitHub<br>
 ### :film_strip: [Assistir Vídeo Aula 10](https://www.youtube.com/watch?v=sRBSr9X5nAQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=10) Clonando Repositórios GitHub<br>
-### :film_strip: [Assistir Vídeo Aula 11]() <br>
-### :film_strip: [Assistir Vídeo Aula 12]() <br>
-### :film_strip: [Assistir Vídeo Aula 13]() <br>
-### :film_strip: [Assistir Vídeo Aula 14]() <br>
-### :film_strip: [Assistir Vídeo Aula 15]() <br>
+### :film_strip: [Assistir Vídeo Aula 11](https://www.youtube.com/watch?v=c-MATEcIuPQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=11) GitHub em vários PCs<br>
+### :film_strip: [Assistir Vídeo Aula 12](https://www.youtube.com/watch?v=sms5H5cKDy4&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=12) Download das imagens do capítulo<br>
+### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=9hV5oXi80-A&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=13) Colocando uma imagem de fundo no seu site<br>
+### :film_strip: [Assistir Vídeo Aula 14](https://www.youtube.com/watch?v=_5KoMUMCTG0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=14) Imagens que se repetem no fundo do site<br>
+### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=RpcmGqvzWxQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=15) Configurando a posição da imagem no fundo do site<br>
 ### :film_strip: [Assistir Vídeo Aula 16]() <br>
 ### :film_strip: [Assistir Vídeo Aula 17]() <br>
 ### :film_strip: [Assistir Vídeo Aula 18]() <br>
