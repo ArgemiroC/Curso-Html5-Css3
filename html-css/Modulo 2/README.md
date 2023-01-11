@@ -59,9 +59,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 
 # :keyboard: Desafios
-### Desafio 10 []()<br>
-### Desafio 11 []()<br>
-### Desafio 12 []()<br>
+### Desafio 10 [Como surgiu o mascote do android](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/desafios/d010)<br>
 
 # :information_source: Referência de Sites
 [Entenda o que é Psicologia das Cores e descubra o significado de cada cor](https://rockcontent.com/br/blog/psicologia-das-cores/)<br>
