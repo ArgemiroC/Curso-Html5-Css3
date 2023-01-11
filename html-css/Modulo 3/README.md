@@ -45,3 +45,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 38]() <br>
 ### :film_strip: [Assistir Vídeo Aula 39]() <br>
 ### :film_strip: [Assistir Vídeo Aula 40]() <br>
+
+# :information_source: Referência de Sites
+[Baixar o Git](https://git-scm.com/)<br>
+[Baixar o GitHub Desktop](https://desktop.github.com/)<br>
+[GitHub](https://github.com/)<br>
