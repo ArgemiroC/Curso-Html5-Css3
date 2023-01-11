@@ -9,8 +9,6 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 # :file_folder: [Módulo 03](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%203/README.md)<br>
 # :file_folder: [PDF das Aulas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/aulas-pdf)<br>
 
-<a href="https://argemiroc.github.io/Curso-Html5-Css3/">Site<a>
-
 # :information_source: Referência de Sites
 [MDN Web Docs](https://developer.mozilla.org/pt-BR/)<br>
 [Web Design and Applications - W3C](https://www.w3.org/standards/webdesign/)<br>
