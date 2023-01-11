@@ -50,3 +50,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Baixar o Git](https://git-scm.com/)<br>
 [Baixar o GitHub Desktop](https://desktop.github.com/)<br>
 [GitHub](https://github.com/)<br>
+[Gerar QR Code](https://br.qr-code-generator.com/)<br>
