@@ -1,6 +1,6 @@
 ![image](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/imagens-extras/CSS3_and_HTML5-300.jpg)
 
-# :books: Curso-HTML5-CSS3 - Módulo 01
+# :books: Curso-HTML5-CSS3 - Módulo 02
 
 Aqui serão postados todos os exercício e tarefas realizadas durante o curso de HTML5 e CSS3 do [CURSO EM VÍDEO - MÓDULO 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s) com o Professor Gustavo Guanabara.
 
