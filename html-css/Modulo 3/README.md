@@ -54,7 +54,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Fundo 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo003.html)
 :point_right: [Fundo 4](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo004.html)
 :point_right: [Fundo 5](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo005.html)
-:point_right: [Fundo 6](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo006.html)<br>
+:point_right: [Fundo 6](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo006.html)
+:point_right: [Fundo 7 - Posicionamento de Caixas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo007.html)<br>
 
 # :information_source: Referência de Sites
 [Baixar o Git](https://git-scm.com/)<br>
