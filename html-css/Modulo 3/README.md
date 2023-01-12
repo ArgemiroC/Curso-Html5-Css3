@@ -48,12 +48,13 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 22: Código :arrow_right: [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex022)<br>
+### Exercício 22: Código :arrow_right: [Posicionamento de Imagem de Fundo](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex022)<br>
 :point_right: [Fundo 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo001.html)
 :point_right: [Fundo 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo002.html)
 :point_right: [Fundo 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo003.html)
 :point_right: [Fundo 4](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo004.html)
-:point_right: [Fundo 5](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo005.html)<br>
+:point_right: [Fundo 5](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo005.html)
+:point_right: [Fundo 6](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo006.html)<br>
 
 # :information_source: Referência de Sites
 [Baixar o Git](https://git-scm.com/)<br>
