@@ -20,11 +20,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 13](https://www.youtube.com/watch?v=9hV5oXi80-A&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=13) Colocando uma imagem de fundo no seu site<br>
 ### :film_strip: [Assistir Vídeo Aula 14](https://www.youtube.com/watch?v=_5KoMUMCTG0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=14) Imagens que se repetem no fundo do site<br>
 ### :film_strip: [Assistir Vídeo Aula 15](https://www.youtube.com/watch?v=RpcmGqvzWxQ&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=15) Configurando a posição da imagem no fundo do site<br>
-### :film_strip: [Assistir Vídeo Aula 16]() <br>
-### :film_strip: [Assistir Vídeo Aula 17]() <br>
-### :film_strip: [Assistir Vídeo Aula 18]() <br>
-### :film_strip: [Assistir Vídeo Aula 19]() <br>
-### :film_strip: [Assistir Vídeo Aula 20]() <br>
+### :film_strip: [Assistir Vídeo Aula 16](https://www.youtube.com/watch?v=lNaoi5AUCsc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=16) Mudando o tamanho da imagem de fundo do site<br>
+### :film_strip: [Assistir Vídeo Aula 17](https://www.youtube.com/watch?v=PzJwwA6LVts&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=17) background-attachment e shorthand<br>
+### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=-w0Qo_qQiRg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=18) Centralização vertical de caixas<br>
+### :film_strip: [Assistir Vídeo Aula 19](https://www.youtube.com/watch?v=cz7AoKGcwlY&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=19) Um projeto completo usando HTML e CSS<br>
+### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=V8kF1WZisbg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=20) Download e organização dos arquivos<br>
 ### :film_strip: [Assistir Vídeo Aula 21]() <br>
 ### :film_strip: [Assistir Vídeo Aula 22]() <br>
 ### :film_strip: [Assistir Vídeo Aula 23]() <br>
