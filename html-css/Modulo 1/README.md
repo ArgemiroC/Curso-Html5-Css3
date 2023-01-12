@@ -71,50 +71,59 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Exemplo de Semântica](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex007/index.html)
 
 ### Exercício 07b: Código :arrow_right:  [Meu Site HTML4](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/html4.html)<br>
-:point_right: []()
+:point_right: [Exemplo em HTML4](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex007/html4.html)
 
 ### Exercício 08: Código :arrow_right:  [Formatação de Textos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008/index.html)<br>
-:point_right: []()
+:point_right: [Principais Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008/index.html)
 
 ### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008b/index.html)<br>
-:point_right: []()
+:point_right: [Outras Formações](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex008b/index.html)
 
 ### Exercício 09: Código :arrow_right:  [Listas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex009/index.html)<br>
-:point_right: []()
+:point_right: [Trabalhando com Listas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex009/index.html)
 
 ### Exercício 10: Código :arrow_right:  [Trabalhando com links](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex010/index.html)<br>
-:point_right: []()
+:point_right: [Usando Links externos e internos](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex010/index.html)
 
 ### Exercício 11: Código :arrow_right:  [Mídias em HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex011/index.html)<br>
-:point_right: []()
+:point_right: [Imagem Dinâmica](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex011/index.html)
 
 ### Exercício 12: Código :arrow_right:  [Vídeos co HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex012/index.html)<br>
-:point_right: []()
+:point_right: [Inserindo vídeos hospedados localmente](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex012/index.html)
 
 ### Exercício 13: Código :arrow_right:  [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
-:point_right: []()
+:point_right: [Estilos 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex013/index.html)
 
 ### Exercício 14: Código :arrow_right:  [Estilos Locais / Internos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex014/index.html)<br>
-:point_right: []()
+:point_right: [Estilos 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex014/index.html)
 
 ### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
-:point_right: []()
+:point_right: [Estilos 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex015/index.html)
 
 # :keyboard: Desafios
 ### Desafio 01: Código :arrow_right:  [Desafio das Mensagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d001/index.html)<br>
+:point_right: [Desafios das Mensagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d001/index.html)<br>
 
 ### Desafio 02: Código :arrow_right:  [Desafio das imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d002/Index.html)<br>
+:point_right: [Desafio das Mensagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d002/Index.html)<br>
 
 ### Desafio 03: Código :arrow_right:  [Desafio do Mapa Mundi](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d003/index.html)<br>
+:point_right: [Desafio do Mapa Mundi](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d003/index.html)<br>
 
 ### Desafio 04: Código :arrow_right:  [Meus emojis favoritos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d004/index.html)<br>
+:point_right: [Meus emojis favoritos](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d004/index.html)<br>
 
 ### Desafio 05: Código :arrow_right:  [Meu perfil social](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d005/index.html)<br>
+:point_right: [Meu perfil social](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d005/index.html)<br>
 
-### Desafio 06: Código :arrow_right:  [Tags em HTNL](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
+### Desafio 06: Código :arrow_right:  [Tags em HTML](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
+:point_right: [Tags em HTML](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d006/index.html)<br>
 
 ### Desafio 07: Código :arrow_right:  [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
+:point_right: [Imagem Flexível](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d007/index.html)<br>
 
 ### Desafio 08: Código :arrow_right:  [Desafio da Navegação](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d008/index.html)<br>
+:point_right: [Desafio da Navegação](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d008/index.html)<br>
 
 ### Desafio 09: Código :arrow_right:  [Vídeos legais para assistir](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d009/index.html)<br>
+:point_right: [Vídeos legais para assistir](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/desafios/d009/index.html)<br>
