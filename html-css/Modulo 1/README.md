@@ -49,31 +49,72 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 01 [Meu Primeiro Exercício](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex001/index.html)<br>
-### Exercício 02 [Parágrafos e quebras de linhas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex002/index.html)<br>
-### Exercício 03 [Teste com Imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex003/index.html)<br>
-### Exercício 04 [Teste de Favicon](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex004/index.html)<br>
-### Exercício 05 [Adicionando Emoji](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex005/index.html)<br>
-### Exercício 06 [Hierarquia de Títulos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex006/index.html)<br>
-### Exercício 07 [Exemplo de Semântica](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/index.html)<br>
-### Exercício 07b [Meu Site HTML4](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/html4.html)<br>
-### Exercício 08 [Formatação de Textos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008/index.html)<br>
-### Exercício 08b [Outras Formações](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008b/index.html)<br>
-### Exercício 09 [Listas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex009/index.html)<br>
-### Exercício 10 [Trabalhando com links](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex010/index.html)<br>
-### Exercício 11 [Mídias em HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex011/index.html)<br>
-### Exercício 12 [Vídeos co HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex012/index.html)<br>
-### Exercício 13 [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
-### Exercício 14 [Estilos Locais / Internos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex014/index.html)<br>
-### Exercício 15 [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
+### Exercício 01: Código :arrow_right: [Meu Primeiro Exercício](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex001/index.html)<br>
+:point_right: [Olá Mundo!](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex001/index.html)<br>
+
+### Exercício 02: Código :arrow_right:  [Parágrafos e quebras de linhas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex002/index.html)<br>
+:point_right: [Parágrafos e quebras de Linhas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex002/index.html)
+
+### Exercício 03: Código :arrow_right:  [Teste com Imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex003/index.html)<br>
+:point_right: [Testando carga e Imagens](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex003/index.html)
+
+### Exercício 04: Código :arrow_right:  [Teste de Favicon](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex004/index.html)<br>
+:point_right: [Olha o favicon aqui em cima](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex004/index.html)
+
+### Exercício 05: Código :arrow_right:  [Adicionando Emoji](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex005/index.html)<br>
+:point_right: [Exemplo de Emojis na página](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex005/index.html)
+
+### Exercício 06: Código :arrow_right:  [Hierarquia de Títulos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex006/index.html)<br>
+:point_right: [Entendendo Portugal](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex006/index.html)
+
+### Exercício 07: Código :arrow_right:  [Exemplo de Semântica](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/index.html)<br>
+:point_right: [Exemplo de Semântica](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%201/exercicios/ex007/index.html)
+
+### Exercício 07b: Código :arrow_right:  [Meu Site HTML4](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex007/html4.html)<br>
+:point_right: []()
+
+### Exercício 08: Código :arrow_right:  [Formatação de Textos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008/index.html)<br>
+:point_right: []()
+
+### Exercício 08b: Código :arrow_right:  [Outras Formações](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex008b/index.html)<br>
+:point_right: []()
+
+### Exercício 09: Código :arrow_right:  [Listas](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex009/index.html)<br>
+:point_right: []()
+
+### Exercício 10: Código :arrow_right:  [Trabalhando com links](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex010/index.html)<br>
+:point_right: []()
+
+### Exercício 11: Código :arrow_right:  [Mídias em HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex011/index.html)<br>
+:point_right: []()
+
+### Exercício 12: Código :arrow_right:  [Vídeos co HTML5](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex012/index.html)<br>
+:point_right: []()
+
+### Exercício 13: Código :arrow_right:  [Estilos Inline](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex013/index.html)<br>
+:point_right: []()
+
+### Exercício 14: Código :arrow_right:  [Estilos Locais / Internos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex014/index.html)<br>
+:point_right: []()
+
+### Exercício 15: Código :arrow_right:  [Estilos Extenos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/exercicios/ex015/index.html)<br>
+:point_right: []()
 
 # :keyboard: Desafios
-### Desafio 01 [Desafio das Mensagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d001/index.html)<br>
-### Desafio 02 [Desafio das imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d002/Index.html)<br>
-### Desafio 03 [Desafio do Mapa Mundi](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d003/index.html)<br>
-### Desafio 04 [Meus emojis favoritos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d004/index.html)<br>
-### Desafio 05 [Meu perfil social](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d005/index.html)<br>
-### Desafio 06 [Tags em HTNL](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
-### Desafio 07 [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
-### Desafio 08 [Desafio da Navegação](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d008/index.html)<br>
-### Desafio 09 [Vídeos legais para assistir](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d009/index.html)<br>
+### Desafio 01: Código :arrow_right:  [Desafio das Mensagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d001/index.html)<br>
+
+### Desafio 02: Código :arrow_right:  [Desafio das imagens](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d002/Index.html)<br>
+
+### Desafio 03: Código :arrow_right:  [Desafio do Mapa Mundi](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d003/index.html)<br>
+
+### Desafio 04: Código :arrow_right:  [Meus emojis favoritos](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d004/index.html)<br>
+
+### Desafio 05: Código :arrow_right:  [Meu perfil social](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d005/index.html)<br>
+
+### Desafio 06: Código :arrow_right:  [Tags em HTNL](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d006/index.html)<br>
+
+### Desafio 07: Código :arrow_right:  [Imagem Flexível](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d007/index.html)<br>
+
+### Desafio 08: Código :arrow_right:  [Desafio da Navegação](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d008/index.html)<br>
+
+### Desafio 09: Código :arrow_right:  [Vídeos legais para assistir](https://github.com/ArgemiroC/Curso-Html5-Css3/blob/main/html-css/Modulo%201/desafios/d009/index.html)<br>
