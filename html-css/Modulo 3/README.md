@@ -25,11 +25,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 18](https://www.youtube.com/watch?v=-w0Qo_qQiRg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=18) Centralização vertical de caixas<br>
 ### :film_strip: [Assistir Vídeo Aula 19](https://www.youtube.com/watch?v=cz7AoKGcwlY&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=19) Um projeto completo usando HTML e CSS<br>
 ### :film_strip: [Assistir Vídeo Aula 20](https://www.youtube.com/watch?v=V8kF1WZisbg&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=20) Download e organização dos arquivos<br>
-### :film_strip: [Assistir Vídeo Aula 21]() <br>
-### :film_strip: [Assistir Vídeo Aula 22]() <br>
-### :film_strip: [Assistir Vídeo Aula 23]() <br>
-### :film_strip: [Assistir Vídeo Aula 24]() <br>
-### :film_strip: [Assistir Vídeo Aula 25]() <br>
+### :film_strip: [Assistir Vídeo Aula 21](https://www.youtube.com/watch?v=e-HB90dx_CI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=21) Ajustes no HTML do projeto<br>
+### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=82vIYws5wF8&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=22) Ajustes no CSS do projeto<br>
+### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=0bBBaHNkzVE&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=23) Colocando as fontes ao projeto<br>
+### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=UnYur3GqcDc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=24) Imagens com efeito Parallax simples<br>
+### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=78hBqKLaWCU&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=25) Hospedando o Projeto Cordel gratuitamente<br>
 ### :film_strip: [Assistir Vídeo Aula 26]() <br>
 ### :film_strip: [Assistir Vídeo Aula 27]() <br>
 ### :film_strip: [Assistir Vídeo Aula 28]() <br>
