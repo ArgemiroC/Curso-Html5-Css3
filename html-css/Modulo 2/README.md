@@ -56,6 +56,13 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 18 [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
 ### Exercício 19 [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
 ### Exercício 20 [Pseudo-Classes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex020)<br>
+:point_right:[Hover  /](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/hover.html)
+[/  Links  /](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/links.html)
+[/  Pseudo-Classes](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/pseudoclass.html)<br>
+### Exercício 21 Caixas 
+[Caixa 1  -  ](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa01.html)
+[Caixa 2  -  ](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa02.html)
+[Caixa 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa03.html)<br>
 
 
 # :keyboard: Desafios
