@@ -46,6 +46,15 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 39]() <br>
 ### :film_strip: [Assistir Vídeo Aula 40]() <br>
 
+# :scroll: Exercícios
+
+### Exercício 22: Código :arrow_right: [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex022)<br>
+:point_right: [Fundo 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo001.html)
+:point_right: [Fundo 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo002.html)
+:point_right: [Fundo 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo003.html)
+:point_right: [Fundo 4](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo004.html)
+:point_right: [Fundo 5](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo005.html)<br>
+
 # :information_source: Referência de Sites
 [Baixar o Git](https://git-scm.com/)<br>
 [Baixar o GitHub Desktop](https://desktop.github.com/)<br>
