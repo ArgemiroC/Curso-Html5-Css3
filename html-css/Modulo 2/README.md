@@ -51,22 +51,36 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 # :scroll: Exercícios
 
-### Exercício 16 [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex016)<br>
-### Exercício 17 [Fontes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex017)<br>
-### Exercício 18 [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
-### Exercício 19 [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
-### Exercício 20 [Pseudo-Classes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex020)<br>
-:point_right:[Hover  /](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/hover.html)
-[/  Links  /](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/links.html)
-[/  Pseudo-Classes](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/pseudoclass.html)<br>
-### Exercício 21 Caixas 
-[Caixa 1  -  ](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa01.html)
-[Caixa 2  -  ](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa02.html)
-[Caixa 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa03.html)<br>
+### Exercício 16: Código :arrow_right: [Cores](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex016)<br>
+:point_right: [Cores 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex016/cor01.html)
+:point_right: [Cores 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex016/cor02.html)
+:point_right: [Cores 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex016/cor03.html)<br>
+
+### Exercício 17: Código :arrow_right: [Fontes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex017)<br>
+:point_right: [Fonte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex017/fonte01.html)
+:point_right: [Fonte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex017/fonte02.html)<br>
+
+### Exercício 18: Código :arrow_right: [Fontes com Google fonts](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex018)<br>
+:point_right: [Fonte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte01.html)
+:point_right: [Fonte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex018/fonte02.html)<br>
+
+### Exercício 19: Código :arrow_right: [Seletores Personalizados](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex019)<br>
+:point_right: [Seletores Personalizados](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex019/seletor01.html)<br>
+
+### Exercício 20: Código :arrow_right: [Hover - Links - Pseudo-Classes](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex020)<br>
+:point_right: [Hover](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/hover.html)
+:point_right: [Links](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/links.html)
+:point_right: [Pseudo-Classes](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex020/pseudoclass.html)<br>
+
+### Exercício 21: Código :arrow_right: [Caixas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/exercicios/ex021)<br> 
+:point_right: [Caixa 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa01.html)
+:point_right: [Caixa 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa02.html)
+:point_right: [Caixa 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%202/exercicios/ex021/caixa03.html)<br>
 
 
 # :keyboard: Desafios
-### Desafio 10 [Como surgiu o mascote do android](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/desafios/d010)<br>
+### Desafio 10: Código :arrow_right: [Como surgiu o mascote do android](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%202/desafios/d010)<br>
+:point_right: [Site: Projeto Android](https://argemiroc.github.io/projeto-android/)<br>
 
 # :information_source: Referência de Sites
 [Entenda o que é Psicologia das Cores e descubra o significado de cada cor](https://rockcontent.com/br/blog/psicologia-das-cores/)<br>
