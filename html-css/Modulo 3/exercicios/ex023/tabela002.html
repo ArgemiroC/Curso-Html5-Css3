@@ -7,6 +7,15 @@
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <title>Tabelas</title>
     <style>
+        caption{
+            font-size: 1.5em;
+            font-weight: bold;
+            padding: 10px;
+            background-color: lightgray;
+            font-family: Arial, Helvetica, sans-serif;
+            text-shadow: 1.5px 1.5px 0px rgb(0, 0, 0, 0.267);
+            
+        }
         thead, tfoot{
             background-color: gray;
             color: white;
@@ -15,13 +24,28 @@
             font-family: Arial, Helvetica, sans-serif;
         }
         table{
-            width: 500px;
+            width: 400px;
             border-collapse: collapse;
         }
         td, th{
             border: 1px solid black;
             padding: 10px;
+            text-align: left;
+        }
+
+        th{
             text-align: center;
+            text-shadow: 1.5px 1.5px 0px rgb(0, 0, 0, 0.267);
+        }
+
+        tbody > tr:nth-child(odd){ /* ímpares, pode ser usado (2n-1)*/
+            background-color: rgb(245, 245, 116);
+            font-weight: bold; /* Coloquei como teste */
+        }
+
+        tbody > tr:nth-child(even){ /* pares, pode ser usado (2n)*/
+            background-color: lightgray;
+            text-decoration: underline; /* Coloquei como teste */
         }
         td.num{
             text-align: right;
@@ -34,6 +58,7 @@
     <!--
         ANATOMIA PARA TABELAS GRANDES
         TABLE
+           CAPTION
            THEAD = cabeça
                TR, TD, TH
            TBODY = corpo
@@ -42,10 +67,11 @@
                TR, TD, TH
     -->
      <table>
+        <caption>População das Unidades Federativas</caption>
         <thead>
             <tr>
-                <th>Estado</th>
-                <th>População 2022</th>
+                <th scope="col" style="width: 100px;">Estado</th>
+                <th scope="col" style="width: 50px;">População 2022 </th>
             </tr>
         </thead>
 
@@ -162,7 +188,7 @@
 
         <tfoot>
             <tr>
-                <th>Total de Habitantes</th>
+                <th scope="row">Total de Habitantes</th>
                 <td class="num" ><strong>213 317 639</strong></td>
             </tr>
 
