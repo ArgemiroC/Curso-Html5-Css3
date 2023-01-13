@@ -30,11 +30,11 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=0bBBaHNkzVE&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=23) Colocando as fontes ao projeto<br>
 ### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=UnYur3GqcDc&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=24) Imagens com efeito Parallax simples<br>
 ### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=78hBqKLaWCU&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=25) Hospedando o Projeto Cordel gratuitamente<br>
-### :film_strip: [Assistir Vídeo Aula 26]() <br>
-### :film_strip: [Assistir Vídeo Aula 27]() <br>
-### :film_strip: [Assistir Vídeo Aula 28]() <br>
-### :film_strip: [Assistir Vídeo Aula 29]() <br>
-### :film_strip: [Assistir Vídeo Aula 30]() <br>
+### :film_strip: [Assistir Vídeo Aula 26](https://www.youtube.com/watch?v=9IF4xvg5rWI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=26) Ainda podemos usar tabelas em HTML<br>
+### :film_strip: [Assistir Vídeo Aula 27](https://www.youtube.com/watch?v=lIiZu-94PBk&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=27) Sua primeira tabela em HTML<br>
+### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=djvX6p9l-Rk&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=28) Alinhando o conteúdo em tabelas<br>
+### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=XmrNuqmmckM&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=29) Aprendendo a trabalhar com tabelas grandes<br>
+### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=ZnjU3PzhGi0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=30) Caption e Escopo de títulos em tabelas<br>
 ### :film_strip: [Assistir Vídeo Aula 31]() <br>
 ### :film_strip: [Assistir Vídeo Aula 32]() <br>
 ### :film_strip: [Assistir Vídeo Aula 33]() <br>
