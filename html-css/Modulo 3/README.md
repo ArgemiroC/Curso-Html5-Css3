@@ -35,16 +35,16 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 28](https://www.youtube.com/watch?v=djvX6p9l-Rk&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=28) Alinhando o conteúdo em tabelas<br>
 ### :film_strip: [Assistir Vídeo Aula 29](https://www.youtube.com/watch?v=XmrNuqmmckM&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=29) Aprendendo a trabalhar com tabelas grandes<br>
 ### :film_strip: [Assistir Vídeo Aula 30](https://www.youtube.com/watch?v=ZnjU3PzhGi0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=30) Caption e Escopo de títulos em tabelas<br>
-### :film_strip: [Assistir Vídeo Aula 31]() <br>
-### :film_strip: [Assistir Vídeo Aula 32]() <br>
-### :film_strip: [Assistir Vídeo Aula 33]() <br>
-### :film_strip: [Assistir Vídeo Aula 34]() <br>
-### :film_strip: [Assistir Vídeo Aula 35]() <br>
-### :film_strip: [Assistir Vídeo Aula 36]() <br>
-### :film_strip: [Assistir Vídeo Aula 37]() <br>
-### :film_strip: [Assistir Vídeo Aula 38]() <br>
-### :film_strip: [Assistir Vídeo Aula 39]() <br>
-### :film_strip: [Assistir Vídeo Aula 40]() <br>
+### :film_strip: [Assistir Vídeo Aula 31](https://www.youtube.com/watch?v=IYUiFRE5hpI&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=31) Efeito Zebrado na tabela com HTML e CSS;<br>
+### :film_strip: [Assistir Vídeo Aula 32](https://www.youtube.com/watch?v=k277B58kC9c&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=32) Cabeçalho fixo em tabelas grandes<br>
+### :film_strip: [Assistir Vídeo Aula 33](https://www.youtube.com/watch?v=olZgL09uDAU&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=33) Mesclagem de células<br>
+### :film_strip: [Assistir Vídeo Aula 34](https://www.youtube.com/watch?v=MnznvoNuy-I&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=34) Desafios (parte 1)<br>
+### :film_strip: [Assistir Vídeo Aula 35](https://www.youtube.com/watch?v=muKp1-jcs3Q&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=36) Exemplo de tabela completa<br>
+### :film_strip: [Assistir Vídeo Aula 36](https://www.youtube.com/watch?v=muKp1-jcs3Q&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=36) Escopos de grupo<br>
+### :film_strip: [Assistir Vídeo Aula 37](https://www.youtube.com/watch?v=V2gVaqTSRmo&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=37) Desafios (parte 2)<br>
+### :film_strip: [Assistir Vídeo Aula 38](https://www.youtube.com/watch?v=1Ro7rjINNb0&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=38) Agrupando Colunas com colgroup<br>
+### :film_strip: [Assistir Vídeo Aula 39](https://www.youtube.com/watch?v=-0CgGstWMcA&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=39) Tabelas responsivas<br>
+### :film_strip: [Assistir Vídeo Aula 40](https://www.youtube.com/watch?v=XJ10-IKH8ig&list=PLHz_AreHm4dmcAviDwiGgHbeEJToxbOpZ&index=40)  Fim do Módulo 3. O Módulo 4 de HTML5 vem aí! (revelamos aqui)<br>
 
 # :scroll: Exercícios
 
