@@ -59,7 +59,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 
 ### Exercício 22: Código :arrow_right: [Tabelas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex023)<br>
 :point_right: [Tabela 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela001.html)
-:point_right: [Tabela 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela002.html)<br>
+:point_right: [Tabela 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela002.html)
+:point_right: [Tabela 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela003.html)<br>
 
 # :keyboard: Desafios
 ### Desafio 12: Código :arrow_right: [Cordel Moderno](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/Desafios/d012)<br>
