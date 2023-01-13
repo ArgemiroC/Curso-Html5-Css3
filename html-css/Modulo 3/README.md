@@ -57,6 +57,10 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Fundo 6](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo006.html)
 :point_right: [Fundo 7 - Posicionamento de Caixas](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex022/fundo007.html)<br>
 
+### Exercício 22: Código :arrow_right: [Tabelas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex023)<br>
+:point_right: [Tabela 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela001.html)
+:point_right: [Tabela 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela002.html)<br>
+
 # :keyboard: Desafios
 ### Desafio 12: Código :arrow_right: [Cordel Moderno](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/Desafios/d012)<br>
 :point_right: [Site: Projeto Cordel](https://argemiroc.github.io/projeto-cordel/)<br>
