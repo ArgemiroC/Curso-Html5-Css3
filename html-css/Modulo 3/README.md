@@ -60,14 +60,17 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### Exercício 22: Código :arrow_right: [Tabelas](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/exercicios/ex023)<br>
 :point_right: [Tabela 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela001.html)
 :point_right: [Tabela 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela002.html)
-:point_right: [Tabela 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela003.html)<br>
+:point_right: [Tabela 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela003.html)
+:point_right: [Tabela 4](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela004.html)
+:point_right: [Tabela 5](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/exercicios/ex023/tabela005.html)<br>
 
 # :keyboard: Desafios
 ### Desafio 12: Código :arrow_right: [Cordel Moderno](https://github.com/ArgemiroC/Curso-Html5-Css3/tree/main/html-css/Modulo%203/Desafios/d012)<br>
 :point_right: [Site: Projeto Cordel](https://argemiroc.github.io/projeto-cordel/)<br>
 ### Desafio 13: Código :arrow_right: [Tabelas Mescladas]()<br>
 :point_right: [Parte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-01.html)
-:point_right: [Parte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-02.html)<br>
+:point_right: [Parte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-02.html)
+:point_right: [Parte 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-03.html)<br>
 
 # :information_source: Referência de Sites
 [Baixar o Git](https://git-scm.com/)<br>
