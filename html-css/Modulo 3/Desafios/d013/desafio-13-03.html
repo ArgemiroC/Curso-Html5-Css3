@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" href="favicon.png" type="image/x-icon">
+    <title>Desafio 13 Parte 2</title>
+    <style>
+        caption{
+            font-size: 1.3em;
+            font-weight: bold;
+            padding: 10px;
+        }
+        body{
+            font-family: Arial, Helvetica, sans-serif;
+            background-color: rgba(188, 188, 223, 0.712);
+        }
+        table{
+            border-collapse: collapse;
+            width: 600px;
+        }
+        thead.destaque{
+            background-color:gray;
+            color: white;  
+        }
+        tr.destaque{
+            background-color:gray;
+            text-align: left;
+            color: white;
+        }
+    th, td{
+        border: 1px solid black;
+        padding: 10px;
+    }
+    </style>
+</head>
+<body>
+    <table>
+        <caption>
+            Desafio Parte 3
+        </caption>
+        <thead class="destaque">
+            <tr>
+                <th rowspan="2" scope="col">Área</th>
+                <th rowspan="2" scope="col">Disciplinas</th>
+                <th colspan="2" scope="colgroup">Notas</th>
+                <th rowspan="2" scope="col">Média</th>
+            </tr>
+            <tr>
+                <th scope="col">Nota 1</th>
+                <th scope="col">Nota 2</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="4" scope="rowgroup">Exatas</th>
+                <td>Mátemática</td>
+                <td>5.0</td>
+                <td>7.0</td>
+                <td>6.0</td>
+            </tr>
+            <tr>
+                <td>Física</td>
+                <td>4.0</td>
+                <td>8.0</td>
+                <td>6.0</td>
+            </tr>
+            <tr>
+                <td>Química</td>
+                <td>8.0</td>
+                <td>6.0</td>
+                <td>7.0</td>
+            </tr>
+            <tr>
+                <td>Biologia</td>
+                <td>7.0</td>
+                <td>9.0</td>
+                <td>8.0</td>
+            </tr>
+            <tr class="destaque">
+                <th colspan="4" scope="row">Média de Extras</th>
+                <td>6.75</td>
+            </tr>
+            <tr>
+                <th rowspan="2" scope="rowgroup">Humanas</th>
+                <td>História</td>
+                <td>8.0</td>
+                <td>8.0</td>
+                <td>8.0</td>
+            </tr>
+            <tr>
+                <td>Geografia</td>
+                <td>9.0</td>
+                <td>7.0</td>
+                <td>8.0</td>
+            </tr>   
+        </tbody>
+        <tfoot>
+            <tr class="destaque">
+                <th colspan="4" scope="row">Média Humanas</th>
+                <td>8.0</td>
+            </tr> 
+        </tfoot>
+    </table>
+</body>
+</html>
