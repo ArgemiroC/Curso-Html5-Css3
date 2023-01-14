@@ -69,7 +69,8 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 :point_right: [Site: Projeto Cordel](https://argemiroc.github.io/projeto-cordel/)<br>
 ### Desafio 13: Código :arrow_right: [Tabelas Mescladas]()<br>
 :point_right: [Parte 1](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-01.html)
-:point_right: [Parte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-02.html)<br>
+:point_right: [Parte 2](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-02.html)
+:point_right: [Parte 3](https://argemiroc.github.io/Curso-Html5-Css3/html-css/Modulo%203/Desafios/d013/desafio-13-03.html)<br>
 
 # :information_source: Referência de Sites
 [Baixar o Git](https://git-scm.com/)<br>
