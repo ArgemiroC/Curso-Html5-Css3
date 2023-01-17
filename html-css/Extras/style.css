@@ -1,19 +1,57 @@
 @charset "UTF-8";
+header{
+    min-height: 50px;
+    text-align: center;
+    padding: 20px;
+    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579); 
+    border-radius: 10px; 
+    margin: 10px;
+}
+
 body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(198, 197, 238, 0.788);
     height: 100vh;
-            background-size: cover;
-            background-color: black;
-            background-image: url('ceu-full.jpg');
-            background-position: center top;
-            background-repeat: no-repeat;
-            background-size: cover; /* não funciona ainda no Shorthand - Background */ 
-            background-attachment: fixed;
+    background-size: cover;
+    background-color: black;
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; /* não funciona ainda no Shorthand - Background */ 
+    background-attachment: fixed;
+    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579);  
+    margin: 10px;
+    
+}
+
+main{
+    background-color: #3198E2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+nav{
+    background-color: white;
+    padding: 5px;
+    box-shadow: 0px 7px 7px black;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight:bold;
+    transition-duration: .5s;
+}
+nav:active{
+    background-color: yellow;
+    border-radius: 5px;
+}
+
+h1{
+    text-align: center;
 }
 
 h2{
     text-align: center;
+}
+div{
+    margin: 10px 30px 10px 20px;
 }
 div > p {
     display: none; /* Não mostra nada */ 
@@ -22,29 +60,35 @@ div:hover > p {
     display: block; /* Mostra o texto */
     color: rgb(5, 5, 5);
     font-weight: bold;
-    background-color: rgba(255, 182, 193, 0.493);
-    width: 700px;
+    background-color: #3198e280;
+    width: 90vh;
     border-radius: 5px;
-    margin: 5px;
+    margin: 15px;
     text-align: justify;
+    padding: 5px;
 }
 div:hover{
-    color: rgb(4, 0, 255);
+    color: #BF2604;
     font-weight: bold;
-}
-div{
-    margin: 10px 30px 10px 20px;
+    padding: 10px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.212);
+    background-color: yellow;
+    border-radius: 10px;
 }
 main{
     background-color: rgba(164, 185, 245, 0.438);
     border-radius: 20px;
     box-shadow: 5px 5px 15px #196954af;
-    width: 800px;
+    width: 1000px;
     padding: 10px;
     margin: auto;
 }
-h1{
+footer{
+    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579);  
+    margin: 10px;
+    padding: 6px;
     text-align: center;
+    font-weight: bold;
 }
 
 
