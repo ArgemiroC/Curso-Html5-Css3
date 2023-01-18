@@ -32,19 +32,6 @@ main{
     margin: 10px;
     border-radius: 10px;
 }
-nav{
-    background-color: white;
-    padding: 5px;
-    box-shadow: 0px 7px 7px black;
-    border-radius: 5px;
-    text-decoration: none;
-    font-weight:bold;
-    transition-duration: .5s;
-}
-nav:active{
-    background-color: yellow;
-    border-radius: 5px;
-}
 
 h1{
     text-align: center;
