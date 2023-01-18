@@ -2,8 +2,11 @@
 header{
     min-height: 50px;
     text-align: center;
+    color: white;
     padding: 20px;
-    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579); 
+    background-image: url("codigo-full.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat;
     border-radius: 10px; 
     margin: 10px;
 }
@@ -12,14 +15,15 @@ body{
     font-family: Arial, Helvetica, sans-serif;
     background-color: rgba(198, 197, 238, 0.788);
     height: 100vh;
+    color: black;
     background-size: cover;
-    background-color: black;
+    background-color: rgba(26, 66, 247, 0.493);
+    background-image: url("codigo-full3.jpg");
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover; /* não funciona ainda no Shorthand - Background */ 
     background-attachment: fixed;
-    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579);  
-    margin: 10px;   
+     
 }
 
 mark{
@@ -39,6 +43,7 @@ h1{
 
 h2{
     text-align: center;
+    color: white;
 }
 div{
     margin: 10px 30px 10px 20px;
@@ -62,23 +67,27 @@ div:hover{
     font-weight: bold;
     padding: 10px;
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.212);
-    background-color: yellow;
+    background-color: rgba(255, 255, 0, 0.5);
     border-radius: 10px;
 }
 main{
-    background-color: rgba(164, 185, 245, 0.438);
+    background-color: rgba(164, 186, 245, 0.87);
     border-radius: 20px;
-    box-shadow: 5px 5px 15px #196954af;
+    box-shadow: 5px 5px 15px #1969547c;
     width: 1000px;
     padding: 10px;
     margin: auto;
 }
 footer{
-    background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579);  
+   background-color: #83c1eea2;
+    background-attachment: fixed;
+    background-repeat: repeat;
     margin: 10px;
-    padding: 6px;
+    padding: 5px;
     text-align: center;
+    color: white;
     font-weight: bold;
+    border-radius: 15px;
 }
 
 
