@@ -22,3 +22,4 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 [Iana - Intenet Assigned Numbers Authority](https://www.iana.org/assignments/media-types/media-types.xhtml)<br>
 [Pexels](https://www.pexels.com/pt-br/)<br>
 [Símbolos HTML5](https://erikasarti.com/html/dingbats-simbolos-desenhos/)<br>
+[Extra: Terminal no Windows](https://blog.cod3r.com.br/terminal-no-windows/)<br>
