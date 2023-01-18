@@ -12,23 +12,30 @@ body{
     background-color: rgba(163, 163, 240, 0.527);
 }
 
+p{
+    font-weight: bold;
+}
+
 table{
-    border-collapse: collapse;
-    
+    border-collapse: separate;
+    margin: 10px; 
+    width: 500PX; 
+    height: auto;
+    border-radius: 10PX;
 }
 
 th, td{
 border: 1px solid gray;
 padding: 10px;
+text-align: center;
+font-weight: bold;
+border-radius: 10PX;
 }
 
-th{
-  text-align: center;
+td.down:hover{
+    background-color: rgba(0, 128, 0, 0.479);
 }
 
-td{ 
-  text-align: left;  
-}
 
 tr:nth-child(even){
     background-color: rgb(228, 228, 288);
