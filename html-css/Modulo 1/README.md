@@ -28,7 +28,7 @@ Aqui serão postados todos os exercício e tarefas realizadas durante o curso de
 ### :film_strip: [Assistir Vídeo Aula 21](https://www.youtube.com/watch?v=HaSgt1hK2Fs&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=21) Semântica na HTML5 é impostante<br>
 ### :film_strip: [Assistir Vídeo Aula 22](https://www.youtube.com/watch?v=T-d_hsO3hUI&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=22) Negrito e Itálico do jeito certo<br>
 ### :film_strip: [Assistir Vídeo Aula 23](https://www.youtube.com/watch?v=8TgKFYkcO5Y&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=23) Formatação adicionais em HTML<br>
-### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/@CursoemVideo) Citações e Códigos<br>
+### :film_strip: [Assistir Vídeo Aula 24](https://www.youtube.com/watch?v=4ynvsrkamt8&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=24) Citações e Códigos<br>
 ### :film_strip: [Assistir Vídeo Aula 25](https://www.youtube.com/watch?v=JlE0pzESf5g&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=25) Listas OL e UL<br>
 ### :film_strip: [Assistir Vídeo Aula 26](https://www.youtube.com/watch?v=Ez1kgIyoGuE&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=26) Listas mistas e de definição<br>
 ### :film_strip: [Assistir Vídeo Aula 27](https://www.youtube.com/watch?v=LeOVXQDsAIY&list=PLHz_AreHm4dkZ9-atkcmcBaMZdmLHft8n&index=27) Links e Âncoras em HTML5<br>
