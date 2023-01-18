@@ -19,8 +19,11 @@ body{
     background-size: cover; /* não funciona ainda no Shorthand - Background */ 
     background-attachment: fixed;
     background-image: linear-gradient(to top, #3198E2, #6D59C0, #B93590, #FDD579);  
-    margin: 10px;
-    
+    margin: 10px;   
+}
+
+mark{
+    background-color: #FDD579;
 }
 
 main{
