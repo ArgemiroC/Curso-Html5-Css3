@@ -23,6 +23,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover; /* não funciona ainda no Shorthand - Background */ 
     background-attachment: fixed;
+   
      
 }
 
@@ -32,9 +33,12 @@ mark{
 
 main{
     background-color: #3198E2;
-    padding: 10px;
-    margin: 10px;
+    padding: 20px;
     border-radius: 10px;
+    margin: Auto;
+    min-width: 320px;
+    max-width: 1000px;
+    box-shadow: 5px 5px 15px #1969547c;
 }
 
 h1{
@@ -64,7 +68,8 @@ div:hover > p {
     color: rgb(5, 5, 5);
     font-weight: bold;
     background-color: #3198e280;
-    width: 90vh;
+    min-width: 320px;
+    max-width: 1000px;
     border-radius: 5px;
     margin: 15px;
     text-align: justify;
@@ -78,14 +83,7 @@ div:hover{
     background-color: rgba(255, 255, 0, 0.5);
     border-radius: 10px;
 }
-main{
-    background-color: rgba(164, 186, 245, 0.87);
-    border-radius: 20px;
-    box-shadow: 5px 5px 15px #1969547c;
-    width: 1000px;
-    padding: 10px;
-    margin: auto;
-}
+
 footer{
    background-color: #83c1eea2;
     background-attachment: fixed;
