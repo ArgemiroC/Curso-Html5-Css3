@@ -1,0 +1,101 @@
+@charset "UTF-8";
+header{
+    min-height: 50px;
+    text-align: center;
+    color: white;
+    padding: 20px;
+    background-image: url("codigo-full.jpg");
+    background-attachment: fixed;
+    background-repeat: repeat;
+    border-radius: 10px; 
+    margin: 10px;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(198, 197, 238, 0.788);
+    height: 100vh;
+    color: black;
+    background-size: cover;
+    background-color: rgba(26, 66, 247, 0.493);
+    background-image: url("codigo-full3.jpg");
+    background-position: center top;
+    background-repeat: no-repeat;
+    background-size: cover; /* não funciona ainda no Shorthand - Background */ 
+    background-attachment: fixed;
+     
+}
+
+mark{
+    background-color: #FDD579;
+}
+
+main{
+    background-color: #3198E2;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+    color: white;
+}
+
+p.errado{
+    color: #BF2604;
+}
+
+p.certo{
+    color: blue;
+}
+div{
+    margin: 10px 30px 10px 20px;
+}
+div > p {
+    display: none; /* Não mostra nada */ 
+}
+div:hover > p {
+    display: block; /* Mostra o texto */
+    color: rgb(5, 5, 5);
+    font-weight: bold;
+    background-color: #3198e280;
+    width: 90vh;
+    border-radius: 5px;
+    margin: 15px;
+    text-align: justify;
+    padding: 5px;
+}
+div:hover{
+    color: #BF2604;
+    font-weight: bold;
+    padding: 10px;
+    box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.212);
+    background-color: rgba(255, 255, 0, 0.5);
+    border-radius: 10px;
+}
+main{
+    background-color: rgba(164, 186, 245, 0.87);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #1969547c;
+    width: 1000px;
+    padding: 10px;
+    margin: auto;
+}
+footer{
+   background-color: #83c1eea2;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+}
+
+
