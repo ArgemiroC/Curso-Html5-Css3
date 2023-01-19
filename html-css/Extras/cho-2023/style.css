@@ -68,7 +68,7 @@ div:hover > p {
     color: rgb(5, 5, 5);
     font-weight: bold;
     background-color: #3198e280;
-    min-width: 320px;
+    min-width: 200px;
     max-width: 1000px;
     border-radius: 5px;
     margin: 15px;
