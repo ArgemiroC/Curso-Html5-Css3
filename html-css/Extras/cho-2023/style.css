@@ -38,9 +38,7 @@ main{
 }
 
 h1{
-    background-color: #5672f1d8;
-    background-attachment: fixed;
-    background-repeat: repeat;
+    background-color: #5956f1;
     margin: 10px;
     padding: 5px;
     text-align: center;
@@ -53,6 +51,17 @@ h1{
 h2{
     text-align: center;
     color: white;
+}
+
+h3{
+    background-color: #42b2f3;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #0303037c;
 }
 
 p.errado{
