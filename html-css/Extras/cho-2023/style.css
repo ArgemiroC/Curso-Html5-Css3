@@ -4,7 +4,6 @@ header{
     text-align: center;
     color: white;
     padding: 20px;
-    background-image: url("codigo-full.jpg");
     background-attachment: fixed;
     background-repeat: repeat;
     border-radius: 10px; 
@@ -17,14 +16,11 @@ body{
     height: 100vh;
     color: black;
     background-size: cover;
-    background-color: rgba(26, 66, 247, 0.493);
-    background-image: url("codigo-full3.jpg");
+    background-color: rgba(26, 66, 247, 0.493);;
     background-position: center top;
     background-repeat: no-repeat;
     background-size: cover; /* não funciona ainda no Shorthand - Background */ 
-    background-attachment: fixed;
-   
-     
+    background-attachment: fixed;  
 }
 
 mark{
@@ -38,11 +34,20 @@ main{
     margin: Auto;
     min-width: 320px;
     max-width: 1000px;
-    box-shadow: 5px 5px 15px #1969547c;
+    box-shadow: 5px 5px 15px #0303037c;
 }
 
 h1{
+    background-color: #5672f1d8;
+    background-attachment: fixed;
+    background-repeat: repeat;
+    margin: 10px;
+    padding: 5px;
     text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #0303037c;
 }
 
 h2{
@@ -85,7 +90,7 @@ div:hover{
 }
 
 footer{
-   background-color: #83c1eea2;
+    background-color: #83c1eea2;
     background-attachment: fixed;
     background-repeat: repeat;
     margin: 10px;
@@ -94,6 +99,7 @@ footer{
     color: white;
     font-weight: bold;
     border-radius: 15px;
+    box-shadow: 5px 5px 15px #0808087c;
 }
 
 
