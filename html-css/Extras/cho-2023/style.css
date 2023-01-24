@@ -64,6 +64,18 @@ h3{
     box-shadow: 5px 5px 15px #0303037c;
 }
 
+h3.index{
+    background-color: #42b2f3;
+    margin: 10px;
+    padding: 5px;
+    font-size: 2em;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #0303037c;
+}
+
 p.errado{
     color: #BF2604;
 }
