@@ -27,6 +27,19 @@ mark{
     background-color: #FDD579;
 }
 
+nav{
+    font-size: 2em;
+    background-color: #5956f18c;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+    color: white;
+    font-weight: bold;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px #0303037c;
+
+}
+
 main{
     background-color: #3198E2;
     padding: 20px;
@@ -51,6 +64,7 @@ h1{
 h2{
     text-align: center;
     color: white;
+    text-decoration: none;
 }
 
 h3{
