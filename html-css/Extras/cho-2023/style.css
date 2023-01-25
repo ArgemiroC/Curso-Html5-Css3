@@ -122,6 +122,7 @@ div:hover{
     box-shadow: 0px 7px 7px rgba(0, 0, 0, 0.212);
     background-color: rgba(255, 255, 0, 0.5);
     border-radius: 10px;
+
 }
 
 img{
@@ -137,7 +138,7 @@ caption{
 }
 table{
     margin: Auto;
-    min-width: 320px;
+    min-width: 280px;
     max-width: 1000px;
     border-collapse:separate;
     border-radius: 10px;
