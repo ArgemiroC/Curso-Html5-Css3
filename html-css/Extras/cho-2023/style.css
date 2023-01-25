@@ -147,6 +147,7 @@ table{
     border-collapse:separate;
     border-radius: 5px;
     box-shadow: 5px 5px 15px #0303037c;  
+    width: 90%;
 }
 
 th, td{
