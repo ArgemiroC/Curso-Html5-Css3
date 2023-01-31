@@ -1,3 +1,4 @@
+
 ATALHOS PARA O VISUAL CODE
 (!) - Abre o padrão do HTML
 
