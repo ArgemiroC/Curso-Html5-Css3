@@ -94,6 +94,7 @@ p.errado{
     color: #BF2604;
 }
 
+
 p.certo{
     color: blue;
 }
@@ -125,8 +126,12 @@ div:hover{
 }
 img{
     width: 90%;
-    border-radius: 5px;
+    border-radius: 10px;
     margin: 15px;
+    
+    
+    
+
 }
 
 caption{
